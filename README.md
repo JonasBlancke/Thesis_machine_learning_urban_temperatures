@@ -1,1 +1,1 @@
-# Thesis_machine_learning_urban_temperatures
+# Thesis: Spatiotemporal modelling of urban air temperatures over European cities using machine learning
