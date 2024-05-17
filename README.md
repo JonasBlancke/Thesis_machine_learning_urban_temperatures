@@ -32,14 +32,12 @@ This repository contains the source code used for my master's thesis in the Mast
     - This directory includes the code to create the training, test, and validation datasets for the limited training cities models.
     - Additionally, it contains code for hyperparameter tuning, training, testing, and for generating violin and kernel density/frequency plots for Section 5.5 of the thesis.
 
-## Getting Started
+## Data
 
-To get started with the code, follow the instructions in the respective directories.
+The used data sources can be found in the methodology chapter of the thesis.
 
 ## Contact
 
-For any questions or further information, please contact [Your Name] at [Your Email].
+For any questions or further information: jonas.blancke@gmail.com
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
