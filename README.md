@@ -3,6 +3,7 @@ Used source code for my master's thesis in the Master of Science in Bioscience E
 The code is grouped into the maps according to structure of the thesis:
 
 1)Preprocessing_features: 
+This folder contains the code for requesting ERA data
 2)Subsampling_and_trainvalidationtest_set:
 3)Cluster_analysis:
 4)Exploratory_analysis:
